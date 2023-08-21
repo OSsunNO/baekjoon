@@ -1,0 +1,6 @@
+f = int(input())
+s = input()
+x = f*int(s[2])
+y = f*int(s[1])
+z = f*int(s[0])
+print(x,y,z,f*int(s),sep='\n')
